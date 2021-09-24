@@ -1,6 +1,14 @@
 <h1>Olá Amigo</h1>
 
-<strong>Me chamo Felipe, tenho 21 anos, atualmente curso Análise e Desenvolvimento de sistemas, sou Dev Front-end com conhecimentos em HTML, CSS, JavaScript, ReactJS e um pouco de NodeJS, estou em busca de uma oportunidade no mercado de trabalho, onde quero mostrar meus conhecimentos e aperfeiçoar eles</strong>
+<strong>Me chamo Felipe, tenho 21 anos, atualmente curso Análise e Desenvolvimento de sistemas, sou Dev Front-end e estou em busca de uma oportunidade no mercado de trabalho, onde quero mostrar meus conhecimentos e aperfeiçoar eles</strong>
+
+<h1>Skills</h1>
+<h2>HTML</h2>
+<h2>CSS (SASS, SCSS)</h2>
+<h2>JavaScript</h2>
+<h2>Bootstrap</h2>
+<h2>ReactJS</h2>
+<h2>NodeJS (Ainda em progresso...)<h2>
 <!--
 **Felipe-HVSilva/Felipe-HVSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
