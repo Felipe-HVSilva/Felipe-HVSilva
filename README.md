@@ -2,7 +2,7 @@
 
 <strong>Me chamo Felipe, tenho 21 anos, atualmente curso Análise e Desenvolvimento de sistemas, sou Dev Front-end e estou em busca de uma oportunidade no mercado de trabalho, onde quero mostrar meus conhecimentos e aperfeiçoar eles</strong>
 
-<h1>Skills</h1>
+<h1> --Skills-- </h1>
 <h2>HTML</h2>
 <h2>CSS (SASS, SCSS)</h2>
 <h2>JavaScript</h2>
