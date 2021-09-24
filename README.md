@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>Olá Amigo</h1>
 
-<strong>My name is felipe, I'm 21 years old, I'm currently studying Analysis and Systems Development, I'm a front-end developer with knowledge in HTML, CSS, JavaScript, ReactJS and NodeJS</strong>
+<strong>Me chamo Felipe, tenho 21 anos, atualmente curso Análise e Desenvolvimento de sistemas, sou Dev Front-end com conhecimentos em HTML, CSS, JavaScript, ReactJS e um pouco de NodeJS, estou em busca de uma oportunidade no mercado de trabalho, onde quero mostrar meus conhecimentos e aperfeiçoar eles</strong>
 <!--
 **Felipe-HVSilva/Felipe-HVSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
