@@ -3,23 +3,12 @@
 <strong>Me chamo Felipe, tenho 21 anos, atualmente curso Análise e Desenvolvimento de sistemas, sou Dev Front-end e estou em busca de uma oportunidade no mercado de trabalho, onde quero mostrar meus conhecimentos e aperfeiçoar eles</strong>
 
 <h1> --Skills-- </h1>
-<h2>HTML</h2>
-<h2>CSS (SASS, SCSS)</h2>
-<h2>JavaScript</h2>
-<h2>Bootstrap</h2>
-<h2>ReactJS</h2>
-<h2>NodeJS (Ainda em progresso...)<h2>
-<!--
-**Felipe-HVSilva/Felipe-HVSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>HTML</h3>
+<h3>CSS (SASS, SCSS, Styled-componts, Chackra UI)</h3>
+<h3>JavaScript</h3>
+<h3>Bootstrap</h3>
+<h3>ReactJS/NextJS</h3>
+<h3>Typescript</h3>
+<h3>Git/Github</h3>
+<h3>NodeJS (Ainda em progresso...)<h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
