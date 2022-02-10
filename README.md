@@ -4,7 +4,7 @@
 
 <h1> --Skills-- </h1>
 <h3>HTML</h3>
-<h3>CSS (SASS, SCSS, Styled-componts, Chackra UI)</h3>
+<h3>CSS (SASS, SCSS, Styled-components, Chakra UI)</h3>
 <h3>JavaScript</h3>
 <h3>Bootstrap</h3>
 <h3>ReactJS/NextJS</h3>
