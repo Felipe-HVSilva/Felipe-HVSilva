@@ -1,4 +1,4 @@
-<h1>Olá Amigo</h1>
+<h1>Bem vindo(a)</h1>
 
 <strong>Me chamo Felipe, tenho 21 anos, atualmente curso Análise e Desenvolvimento de sistemas, sou Dev Front-end e estou em busca de uma oportunidade no mercado de trabalho, onde quero mostrar meus conhecimentos e aperfeiçoar eles</strong>
 
