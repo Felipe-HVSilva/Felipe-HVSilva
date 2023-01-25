@@ -3,7 +3,6 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-hvsilva&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-hvsilva&layout=compact)](https://github.com/felipe-hvsilva/github-readme-stats)
 
 ## Tecnoligas que eu uso no meu dia a dia
 <div style="display; inline_block">
